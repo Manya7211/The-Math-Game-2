@@ -1,0 +1,46 @@
+body {
+	background: #ffcc98;
+}
+
+.player1_div , .player2_div {
+	background: #ffaaa6;
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+	height: 130px;
+	width: 700px;
+	font-size: 20px;
+	color: #af4b46;
+}
+
+#player1_name , #player2_name {
+	display: inline-block;
+	margin-left: 20px;
+}
+
+#word {
+	width: 60%;
+}
+
+#word_display {
+	letter-spacing: 5px;
+}
+
+#output {
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+button {
+	width: 30%;
+	height: 30px;
+	background-color: #ffaaa6;
+	color: #af4b46;
+	border-radius: 5px;
+	font-size: 20px;
+	border: 0px;
+}
